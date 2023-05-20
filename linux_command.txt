@@ -1,0 +1,6 @@
+a.mkdir metasit
+b.toch ROBOT_CLASS.txt
+c. git init
+   git remote add origin:https://github.com/robot-class/final.git
+      git branch robot-dev
+      git push -u origin master
